@@ -16,3 +16,7 @@ body {
     margin-right: 20px;
     list-style: none;
 }
+
+h2 {
+    color:green;
+}
