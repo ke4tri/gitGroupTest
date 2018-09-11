@@ -3,6 +3,22 @@ body {
 
 }
 
+
 p_para {
     color: lightblue;
 }
+
+.nav {
+
+}
+
+.ul_nav {
+    display: flex;
+}
+
+.li_nav {
+    justify-content: center;
+    margin-right: 20px;
+    list-style: none;
+}
+
