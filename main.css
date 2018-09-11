@@ -14,4 +14,5 @@ body {
 .li_nav {
     justify-content: center;
     margin-right: 20px;
+    list-style: none;
 }
